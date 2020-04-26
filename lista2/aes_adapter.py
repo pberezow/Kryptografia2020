@@ -1,7 +1,6 @@
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives.padding import ANSIX923, PKCS7
 from cryptography.hazmat.backends import default_backend
-from getpass import getpass
 import random
 import jks
 import os

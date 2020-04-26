@@ -11,3 +11,7 @@
  - dla trybu 'oracle' - `oracle_example.sh`
  - dla trybu 'challenge' - `challenge_example.sh`
  - dla trybu 'decode' - `decode_example.sh` 
+
+## Wymagane pakiety:
+ - pyjks
+ - cryptography
